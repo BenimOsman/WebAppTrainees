@@ -1,5 +1,5 @@
 # WebAppTrainees
-(DAY - 7)
+##### (DAY - 6)
 
 WebAppTrainees is an ASP.NET Core MVC application created using the **Scaffolding approach** to quickly generate controllers, views, and models. It demonstrates how to perform CRUD (Create, Read, Update, Delete) operations on trainee data with minimal manual setup.
 
